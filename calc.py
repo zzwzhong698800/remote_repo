@@ -1,5 +1,11 @@
 def add():
 	pass
 
-def add():
+def subtract():
+	pass
+
+def multiply():
+	pass
+
+def divide():
 	pass
